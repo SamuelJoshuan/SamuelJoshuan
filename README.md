@@ -36,14 +36,20 @@
 </p>
 
 ---
-
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias, Ferramentas e Softwares  
 
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img align="left" alt="NetBeans" title="NetBeans" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+<img align="left" alt="Photoshop" title="Photoshop" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+
 <br/>
 <br/>
+
+
 
 ### 📊 Estatísticas
 
@@ -51,16 +57,5 @@
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=SamuelJoshuan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelJoshuan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
-
----
-
-### 💻 Software e Ferramentas
-
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF.svg?logo=adobe-photoshop&logoColor=white"></a>
-<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-<a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-009CFF.svg?logo=apache-netbeans&logoColor=white"></a>
 
 ---
