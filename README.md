@@ -8,7 +8,7 @@
 
 🚀 Meu objetivo é construir projetos inovadores, melhorar minhas habilidades técnicas e conquistar oportunidades na área de tecnologia. Adoro trabalhar em equipe e colaborar para alcançar resultados concretos!
 
-📫 **Entre em contato:** [samueljoshuam616@gmail.com](mailto:samueljoshuam616@gmail.com)
+📫 **Entre em contato:** [joshuan.dev@gmail.com](mailto:joshuan.dev@gmail.com)
 
 
 ---
