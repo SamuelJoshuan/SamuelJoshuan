@@ -1,10 +1,10 @@
 # 👨🏻‍💻 Samuel Joshuan
 
-**`Estudante de Ciência da Computação | Java | SQL`**
+**`Ciência da Computação | Java | JavaScript | HTML | CSS | Front-end | Git & GitHub`**
 
-👋 Olá, sou Samuel Joshuan, estudante de Ciência da Computação no 1º semestre pela UNA. Estou no começo da minha jornada no mundo da programação, sempre em busca de aprender e aplicar novos conhecimentos para desenvolver soluções práticas.
+👋 Olá, sou Samuel Joshuan, estudante de Ciência da Computação no 2º semestre pela UNA. Estou no começo da minha jornada no mundo da programação, sempre em busca de aprender e aplicar novos conhecimentos para desenvolver soluções práticas.
 
-🌱 Atualmente, estou aprendendo Java, SQL e aprimorando meus conhecimentos em desenvolvimento web.
+🌱 Atualmente, estou aprendendo Java, SQL e aprimorando meus conhecimentos em desenvolvimento web fron end.
 
 🚀 Meu objetivo é construir projetos inovadores, melhorar minhas habilidades técnicas e conquistar oportunidades na área de tecnologia. Adoro trabalhar em equipe e colaborar para alcançar resultados concretos!
 
